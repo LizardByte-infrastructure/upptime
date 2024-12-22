@@ -1,5 +1,5 @@
 ---
-owner: LizardByte-bot  # Your GitHub organization or username, where this repository lives
+owner: LizardByte-infrastructure  # Your GitHub organization or username, where this repository lives
 repo: upptime  # The name of this repository
 
 workflowSchedule:
