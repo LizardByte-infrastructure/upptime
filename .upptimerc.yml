@@ -53,6 +53,8 @@ status-website:
       href: https://github.com/orgs/LizardByte/discussions
     - title: Status
       href: /
+    - title: Status (Dev)
+      href: https://status-dev.lizardbyte.dev
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
