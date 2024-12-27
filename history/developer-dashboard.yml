@@ -1,7 +1,7 @@
 url: https://app.lizardbyte.dev/dashboard
-status: up
+status: degraded
 code: 200
-responseTime: 561
-lastUpdated: 2024-12-27T17:30:42.059Z
+responseTime: 568
+lastUpdated: 2024-12-27T20:35:30.751Z
 startTime: 2024-09-05T19:13:02.161Z
 generator: Upptime <https://github.com/upptime/upptime>
