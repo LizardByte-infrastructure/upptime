@@ -61,9 +61,11 @@ status-website:
   # custom js
   scripts:
     - src: https://cdn.jsdelivr.net/npm/@lizardbyte/shared-web@latest/dist/discord.js
-  js: "window.onload = function() { window.initDiscord() }"
-  customHeadHtml: |
-    <title>Status | LizardByte</title>
+  js: |
+    window.onload = function() { window.initDiscord() }
+    document.addEventListener("DOMContentLoaded", function() {
+        document.title = "Status | LizardByte";
+    });
 
 # https://upptime.js.org/docs/configuration#repository-metadata
 skipDescriptionUpdate: true
