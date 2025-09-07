@@ -70,9 +70,9 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "91.09%",
-    "uptimeDay": "99.24%",
+    "uptimeDay": "99.23%",
     "uptimeWeek": "98.04%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "91.09%",
@@ -154,8 +154,7 @@
       "2025-03-04": 163,
       "2025-03-03": 40,
       "2025-03-02": 113,
-      "2025-03-01": 63,
-      "2025-02-24": 18
+      "2025-03-01": 63
     }
   },
   {
