@@ -163,18 +163,20 @@
     "url": "https://docs.lizardbyte.dev",
     "icon": "https://docs.readthedocs.io/favicon.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 296,
-    "timeWeek": 306,
-    "timeMonth": 363,
+    "timeDay": 312,
+    "timeWeek": 308,
+    "timeMonth": 362,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
   },
   {
     "name": "GameDB",
