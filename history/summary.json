@@ -163,19 +163,19 @@
     "url": "https://docs.lizardbyte.dev",
     "icon": "https://docs.readthedocs.io/favicon.ico",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 312,
-    "timeWeek": 308,
-    "timeMonth": 362,
+    "time": 373,
+    "timeDay": 349,
+    "timeWeek": 321,
+    "timeMonth": 364,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2025-09-09": 0
+      "2025-09-09": 15
     }
   },
   {
