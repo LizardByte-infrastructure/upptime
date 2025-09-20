@@ -1,7 +1,7 @@
 url: $DISCORD_BOT_URL/status
-status: up
-code: 200
-responseTime: 566
-lastUpdated: 2025-09-19T23:16:44.323Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-09-20T19:16:14.533Z
 startTime: 2024-12-14T23:30:37.836Z
 generator: Upptime <https://github.com/upptime/upptime>
