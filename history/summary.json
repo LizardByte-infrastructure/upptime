@@ -71,18 +71,19 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
-    "status": "up",
-    "uptime": "95.02%",
-    "uptimeDay": "96.42%",
+    "status": "degraded",
+    "uptime": "95.04%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "47.17%",
-    "uptimeMonth": "81.67%",
-    "uptimeYear": "95.02%",
+    "uptimeMonth": "81.80%",
+    "uptimeYear": "95.04%",
     "time": 3971,
-    "timeDay": 9158,
-    "timeWeek": 4394,
-    "timeMonth": 4062,
+    "timeDay": 6093,
+    "timeWeek": 4387,
+    "timeMonth": 4037,
     "timeYear": 3971,
     "dailyMinutesDown": {
+      "2025-10-14": 0,
       "2025-10-13": 52,
       "2025-10-12": 162,
       "2025-10-11": 1440,
@@ -142,8 +143,7 @@
       "2025-06-29": 16,
       "2025-06-28": 26,
       "2025-06-25": 11,
-      "2025-06-22": 23,
-      "2025-06-19": 18
+      "2025-06-22": 23
     }
   },
   {
