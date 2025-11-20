@@ -13,8 +13,8 @@
     "time": 506,
     "timeDay": 326,
     "timeWeek": 645,
-    "timeMonth": 704,
-    "timeYear": 543,
+    "timeMonth": 712,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2025-11-14": 18,
       "2025-11-12": 25,
@@ -41,8 +41,8 @@
     "time": 425,
     "timeDay": 269,
     "timeWeek": 502,
-    "timeMonth": 499,
-    "timeYear": 464,
+    "timeMonth": 510,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2025-09-22": 10,
       "2025-03-20": 70,
@@ -73,19 +73,19 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
-    "status": "down",
-    "uptime": "84.72%",
+    "status": "degraded",
+    "uptime": "84.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.72%",
-    "time": 4383,
-    "timeDay": 4268,
-    "timeWeek": 4650,
-    "timeMonth": 5144,
-    "timeYear": 4383,
+    "uptimeYear": "84.71%",
+    "time": 4380,
+    "timeDay": 4090,
+    "timeWeek": 4608,
+    "timeMonth": 5134,
+    "timeYear": 4380,
     "dailyMinutesDown": {
-      "2025-11-20": 1376,
+      "2025-11-20": 1398,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -199,7 +199,7 @@
     "time": 361,
     "timeDay": 324,
     "timeWeek": 393,
-    "timeMonth": 345,
+    "timeMonth": 350,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-09-09": 15
@@ -219,7 +219,7 @@
     "time": 131,
     "timeDay": 17,
     "timeWeek": 84,
-    "timeMonth": 93,
+    "timeMonth": 95,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-09-22": 10
@@ -239,7 +239,7 @@
     "time": 79,
     "timeDay": 16,
     "timeWeek": 82,
-    "timeMonth": 89,
+    "timeMonth": 92,
     "timeYear": 82,
     "dailyMinutesDown": {}
   },
@@ -257,7 +257,7 @@
     "time": 93,
     "timeDay": 10,
     "timeWeek": 54,
-    "timeMonth": 57,
+    "timeMonth": 58,
     "timeYear": 61,
     "dailyMinutesDown": {}
   }
