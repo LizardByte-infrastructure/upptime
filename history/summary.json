@@ -14,7 +14,7 @@
     "timeDay": 483,
     "timeWeek": 644,
     "timeMonth": 684,
-    "timeYear": 563,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-11-14": 18,
       "2025-11-12": 25,
@@ -72,19 +72,19 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
-    "status": "degraded",
-    "uptime": "78.98%",
+    "status": "down",
+    "uptime": "78.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "78.93%",
     "time": 4752,
-    "timeDay": 5379,
+    "timeDay": 5479,
     "timeWeek": 5759,
     "timeMonth": 5816,
-    "timeYear": 4753,
+    "timeYear": 4756,
     "dailyMinutesDown": {
-      "2025-12-15": 1055,
+      "2025-12-15": 1099,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -246,7 +246,7 @@
     "timeDay": 53,
     "timeWeek": 83,
     "timeMonth": 101,
-    "timeYear": 105,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2025-09-22": 10
     }
