@@ -60,8 +60,7 @@
       "2024-12-23": 65,
       "2024-12-22": 174,
       "2024-12-21": 153,
-      "2024-12-20": 77,
-      "2024-12-19": 23
+      "2024-12-20": 77
     }
   },
   {
@@ -70,18 +69,19 @@
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
     "status": "down",
-    "uptime": "78.28%",
+    "uptime": "78.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.05%",
+    "uptimeYear": "78.02%",
     "time": 4803,
-    "timeDay": 7426,
-    "timeWeek": 6023,
+    "timeDay": 7537,
+    "timeWeek": 6064,
     "timeMonth": 5966,
     "timeYear": 4822,
     "dailyMinutesDown": {
-      "2025-12-18": 1408,
+      "2025-12-19": 78,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
