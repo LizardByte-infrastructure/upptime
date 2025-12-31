@@ -13,7 +13,7 @@
     "time": 543,
     "timeDay": 898,
     "timeWeek": 682,
-    "timeMonth": 797,
+    "timeMonth": 785,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2025-11-14": 18,
@@ -41,7 +41,7 @@
     "time": 498,
     "timeDay": 510,
     "timeWeek": 2116,
-    "timeMonth": 965,
+    "timeMonth": 944,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2025-12-24": 33,
@@ -59,19 +59,20 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
-    "status": "degraded",
-    "uptime": "75.82%",
+    "status": "down",
+    "uptime": "75.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "74.76%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "74.74%",
     "time": 4862,
-    "timeDay": 5384,
-    "timeWeek": 5707,
-    "timeMonth": 5663,
+    "timeDay": 5950,
+    "timeWeek": 5648,
+    "timeMonth": 5648,
     "timeYear": 4905,
     "dailyMinutesDown": {
-      "2025-12-30": 1410,
+      "2025-12-31": 65,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -225,7 +226,7 @@
     "time": 357,
     "timeDay": 280,
     "timeWeek": 320,
-    "timeMonth": 358,
+    "timeMonth": 353,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2025-12-09": 14,
@@ -247,7 +248,7 @@
     "time": 130,
     "timeDay": 184,
     "timeWeek": 110,
-    "timeMonth": 106,
+    "timeMonth": 103,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2025-09-22": 10
@@ -267,7 +268,7 @@
     "time": 81,
     "timeDay": 185,
     "timeWeek": 104,
-    "timeMonth": 98,
+    "timeMonth": 96,
     "timeYear": 86,
     "dailyMinutesDown": {
       "2025-12-24": 33
@@ -287,7 +288,7 @@
     "time": 85,
     "timeDay": 114,
     "timeWeek": 58,
-    "timeMonth": 66,
+    "timeMonth": 65,
     "timeYear": 52,
     "dailyMinutesDown": {}
   }
