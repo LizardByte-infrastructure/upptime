@@ -59,7 +59,7 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
-    "status": "degraded",
+    "status": "down",
     "uptime": "75.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -71,7 +71,7 @@
     "timeMonth": 5562,
     "timeYear": 4915,
     "dailyMinutesDown": {
-      "2026-01-02": 588,
+      "2026-01-02": 598,
       "2026-01-01": 1440,
       "2025-12-31": 1440,
       "2025-12-30": 1440,
