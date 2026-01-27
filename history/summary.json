@@ -14,7 +14,7 @@
     "timeDay": 554,
     "timeWeek": 842,
     "timeMonth": 708,
-    "timeYear": 614,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2025-11-14": 18,
       "2025-11-12": 25,
@@ -39,7 +39,7 @@
     "timeDay": 386,
     "timeWeek": 712,
     "timeMonth": 503,
-    "timeYear": 533,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2025-12-24": 33,
       "2025-09-22": 10,
@@ -51,19 +51,19 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
-    "status": "down",
-    "uptime": "70.77%",
+    "status": "degraded",
+    "uptime": "70.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.31%",
-    "time": 5007,
-    "timeDay": 7771,
-    "timeWeek": 6075,
-    "timeMonth": 5799,
-    "timeYear": 5101,
+    "uptimeYear": "67.30%",
+    "time": 5010,
+    "timeDay": 7940,
+    "timeWeek": 6119,
+    "timeMonth": 5810,
+    "timeYear": 5106,
     "dailyMinutesDown": {
-      "2026-01-27": 240,
+      "2026-01-27": 293,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -288,7 +288,7 @@
     "timeDay": 74,
     "timeWeek": 140,
     "timeMonth": 108,
-    "timeYear": 89,
+    "timeYear": 90,
     "dailyMinutesDown": {
       "2025-12-24": 33
     }
@@ -308,7 +308,7 @@
     "timeDay": 5,
     "timeWeek": 59,
     "timeMonth": 47,
-    "timeYear": 52,
+    "timeYear": 53,
     "dailyMinutesDown": {}
   }
 ]
