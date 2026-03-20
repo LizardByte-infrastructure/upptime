@@ -10,19 +10,18 @@
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
-    "time": 589,
-    "timeDay": 380,
-    "timeWeek": 630,
-    "timeMonth": 640,
-    "timeYear": 646,
+    "time": 590,
+    "timeDay": 681,
+    "timeWeek": 607,
+    "timeMonth": 648,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2026-03-16": 64,
       "2025-11-14": 18,
       "2025-11-12": 25,
       "2025-08-16": 9,
       "2025-04-24": 10,
-      "2025-03-29": 10,
-      "2025-03-20": 11
+      "2025-03-29": 10
     }
   },
   {
@@ -37,14 +36,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 506,
-    "timeDay": 468,
-    "timeWeek": 522,
-    "timeMonth": 498,
-    "timeYear": 529,
+    "timeDay": 445,
+    "timeWeek": 445,
+    "timeMonth": 504,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2025-12-24": 33,
-      "2025-09-22": 10,
-      "2025-03-20": 70
+      "2025-09-22": 10
     }
   },
   {
@@ -53,15 +51,15 @@
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
     "status": "up",
-    "uptime": "69.70%",
+    "uptime": "69.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "61.89%",
-    "time": 5017,
-    "timeDay": 492,
-    "timeWeek": 1571,
-    "timeMonth": 1787,
+    "time": 5018,
+    "timeDay": 6295,
+    "timeWeek": 2296,
+    "timeMonth": 1976,
     "timeYear": 5109,
     "dailyMinutesDown": {
       "2026-03-17": 64,
@@ -263,10 +261,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 335,
-    "timeDay": 375,
-    "timeWeek": 349,
-    "timeMonth": 385,
+    "time": 336,
+    "timeDay": 366,
+    "timeWeek": 347,
+    "timeMonth": 388,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-12-09": 14,
@@ -286,9 +284,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 59,
-    "timeWeek": 101,
-    "timeMonth": 98,
+    "timeDay": 88,
+    "timeWeek": 83,
+    "timeMonth": 100,
     "timeYear": 97,
     "dailyMinutesDown": {
       "2025-09-22": 10
@@ -306,10 +304,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 85,
-    "timeDay": 33,
-    "timeWeek": 96,
-    "timeMonth": 89,
-    "timeYear": 91,
+    "timeDay": 186,
+    "timeWeek": 89,
+    "timeMonth": 95,
+    "timeYear": 92,
     "dailyMinutesDown": {
       "2025-12-24": 33
     }
@@ -325,11 +323,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 62,
-    "timeDay": 41,
-    "timeWeek": 54,
-    "timeMonth": 60,
-    "timeYear": 52,
+    "time": 61,
+    "timeDay": 74,
+    "timeWeek": 46,
+    "timeMonth": 62,
+    "timeYear": 53,
     "dailyMinutesDown": {}
   }
 ]
