@@ -8,12 +8,12 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 606,
     "timeDay": 440,
     "timeWeek": 689,
-    "timeMonth": 700,
+    "timeMonth": 693,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2026-03-16": 64,
@@ -49,18 +49,19 @@
     "url": "$DISCORD_BOT_URL/status",
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
-    "status": "up",
-    "uptime": "73.05%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "73.09%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "64.03%",
+    "uptimeYear": "64.04%",
     "time": 4970,
     "timeDay": 259,
     "timeWeek": 482,
     "timeMonth": 1412,
     "timeYear": 5058,
     "dailyMinutesDown": {
+      "2026-04-16": 0,
       "2026-04-04": 42,
       "2026-04-03": 116,
       "2026-03-29": 32,
@@ -239,7 +240,7 @@
       "2025-07-30": 106,
       "2025-07-27": 10,
       "2025-07-26": 121,
-      "2025-07-25": 152
+      "2025-07-25": 112
     }
   },
   {
