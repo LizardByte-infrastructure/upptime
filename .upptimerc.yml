@@ -30,6 +30,8 @@ sites:
     url: https://app.lizardbyte.dev/GameDB
   - name: uno
     url: https://app.lizardbyte.dev/uno
+  - name: ThemerrDB
+    url: https://app.lizardbyte.dev/ThemerrDB
   - name: Website
     url: https://app.lizardbyte.dev
 
