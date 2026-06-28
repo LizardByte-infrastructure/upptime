@@ -4,23 +4,24 @@
     "url": "https://translate.lizardbyte.dev",
     "icon": "https://icons.duckduckgo.com/ip3/translate.lizardbyte.dev.ico",
     "slug": "crowdin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "93.98%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.94%",
     "time": 641,
-    "timeDay": 871,
-    "timeWeek": 728,
-    "timeMonth": 637,
+    "timeDay": 734,
+    "timeWeek": 698,
+    "timeMonth": 632,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2025-08-16": 9,
       "2025-11-12": 25,
       "2025-11-14": 18,
       "2026-03-16": 64,
-      "2026-06-27": 181
+      "2026-06-27": 181,
+      "2026-06-28": 0
     }
   },
   {
