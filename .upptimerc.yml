@@ -28,10 +28,25 @@ sites:
     icon: https://docs.readthedocs.io/favicon.ico
   - name: GameDB
     url: https://app.lizardbyte.dev/GameDB
-  - name: uno
-    url: https://app.lizardbyte.dev/uno
+  - name: Homebrew tap
+    url: "https://github.com/LizardByte/homebrew-homebrew.git/info/refs?service=git-upload-pack"
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "refs/heads/master"
+  - name: Packages
+    url: https://app.lizardbyte.dev/packages
+  - name: Pacman repo (stable)
+    url: "https://github.com/LizardByte/pacman-repo/releases/latest/download/lizardbyte.db"
+    expectedStatusCodes:
+      - 200
+  - name: Pacman repo (beta)
+    url: "https://github.com/LizardByte/pacman-repo/releases/download/beta/lizardbyte-beta.db"
+    expectedStatusCodes:
+      - 200
   - name: ThemerrDB
     url: https://app.lizardbyte.dev/ThemerrDB
+  - name: uno
+    url: https://app.lizardbyte.dev/uno
   - name: Website
     url: https://app.lizardbyte.dev
 
@@ -60,14 +75,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
-  # custom js
-  scripts:
-    - src: https://cdn.jsdelivr.net/npm/@lizardbyte/shared-web@latest/dist/discord.js
-  js: |
-    window.onload = function() { window.initDiscord() }
-    document.addEventListener("DOMContentLoaded", function() {
-        document.title = "Status | LizardByte";
-    });
 
 # https://upptime.js.org/docs/configuration#repository-metadata
 skipDescriptionUpdate: true
