@@ -13,6 +13,8 @@ workflowSchedule:
   # starting at 0 has issues with queued jobs getting dropped, see: https://stackoverflow.com/a/63192190/11214013
 
 sites:
+  - name: App Directory
+    url: https://app.lizardbyte.dev/app-directory
   - name: Crowdin
     url: https://translate.lizardbyte.dev
   - name: Developer Dashboard
