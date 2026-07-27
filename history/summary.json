@@ -22,16 +22,16 @@
     "url": "https://translate.lizardbyte.dev",
     "icon": "https://icons.duckduckgo.com/ip3/translate.lizardbyte.dev.ico",
     "slug": "crowdin",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.99%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.88%",
     "time": 641,
-    "timeDay": 722,
-    "timeWeek": 638,
-    "timeMonth": 621,
+    "timeDay": 584,
+    "timeWeek": 618,
+    "timeMonth": 609,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2025-08-16": 9,
@@ -39,7 +39,8 @@
       "2025-11-14": 18,
       "2026-03-16": 64,
       "2026-06-27": 181,
-      "2026-06-28": 356
+      "2026-06-28": 356,
+      "2026-07-27": 0
     }
   },
   {
@@ -69,7 +70,7 @@
     "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-bot",
     "status": "up",
-    "uptime": "77.60%",
+    "uptime": "77.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
