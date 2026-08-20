@@ -361,18 +361,20 @@
     "url": "https://github.com/LizardByte/pacman-repo/releases/download/beta/lizardbyte-beta.db",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pacman-repo-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 262,
-    "timeWeek": 189,
-    "timeMonth": 218,
-    "timeYear": 218,
-    "dailyMinutesDown": {}
+    "time": 213,
+    "timeDay": 162,
+    "timeWeek": 173,
+    "timeMonth": 213,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2026-08-20": 1
+    }
   },
   {
     "name": "ThemerrDB",
