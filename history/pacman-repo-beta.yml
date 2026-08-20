@@ -1,7 +1,7 @@
 url: https://github.com/LizardByte/pacman-repo/releases/download/beta/lizardbyte-beta.db
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2026-08-19T23:22:46.294Z
+status: down
+code: 404
+responseTime: 61
+lastUpdated: 2026-08-20T05:07:06.854Z
 startTime: 2026-07-25T13:41:34.134Z
 generator: Upptime <https://github.com/upptime/upptime>
