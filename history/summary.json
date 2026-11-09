@@ -76,12 +76,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.25%",
+    "uptimeYear": "72.26%",
     "time": 4742,
     "timeDay": 2276,
     "timeWeek": 853,
     "timeMonth": 1202,
-    "timeYear": 4705,
+    "timeYear": 4707,
     "dailyMinutesDown": {
       "2026-02-15": 435,
       "2026-02-14": 1440,
@@ -318,22 +318,22 @@
   },
   {
     "name": "ThemerrDB",
-    "url": "https://app.lizardbyte.dev/ThemerrDB",
-    "icon": "https://icons.duckduckgo.com/ip3/app.lizardbyte.dev.ico",
+    "url": "https://themerr.lizardbyte.dev/ThemerrDB/",
+    "icon": "https://icons.duckduckgo.com/ip3/themerr.lizardbyte.dev.ico",
     "slug": "themerr-db",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 108,
     "timeDay": 104,
     "timeWeek": 153,
     "timeMonth": 170,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2026-11-09": 1
+      "2026-11-09": 48
     }
   },
   {
