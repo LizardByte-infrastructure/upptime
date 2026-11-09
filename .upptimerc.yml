@@ -46,7 +46,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: ThemerrDB
-    url: https://app.lizardbyte.dev/ThemerrDB
+    url: https://themerr.lizardbyte.dev/ThemerrDB/
   - name: uno
     url: https://app.lizardbyte.dev/uno
   - name: Website
